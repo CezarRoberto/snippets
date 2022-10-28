@@ -1,7 +1,7 @@
+// Place to save some prefix that i use on my vsCode
+// contact me for any question: https://www.linkedin.com/in/rodrigues-cezar/
+// Example:
 {
-	// Place to save some prefix that i use on my vsCode
-	// contact me for any question: https://www.linkedin.com/in/rodrigues-cezar/
-	// Example:
 	"console.log": {
 		"scope": "javascript,typescript",
 		"prefix": "cl",
